@@ -154,4 +154,3 @@ function limpiarHTML() {
     };
     // Elimina elementos 'row' del carrito hasta que esté vacío, y de esta manera limpia el HTML
 };
-
